@@ -3,13 +3,12 @@ package main
 import (
 	"log"
 
-	"iteung/config"
+	"github.com/nekowawolf/BP63/config"
 
 	"github.com/aiteung/musik"
 	"github.com/gofiber/fiber/v2/middleware/cors"
 
-
-	"iteung/url"
+	"github.com/nekowawolf/BP63/url"
 
 	"github.com/gofiber/fiber/v2"
 )

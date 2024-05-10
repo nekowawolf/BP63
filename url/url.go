@@ -1,7 +1,7 @@
 package url
 
 import (
-	"iteung/controller"
+	"github.com/nekowawolf/BP63/controller"
 
 	"github.com/gofiber/fiber/v2"
 )
